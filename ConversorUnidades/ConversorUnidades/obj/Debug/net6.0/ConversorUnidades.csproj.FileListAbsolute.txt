@@ -1,0 +1,15 @@
+C:\Users\ttc2478\source\repos\ConversorUnidades\ConversorUnidades\obj\Debug\net6.0\ConversorUnidades.csproj.AssemblyReference.cache
+C:\Users\ttc2478\source\repos\ConversorUnidades\ConversorUnidades\obj\Debug\net6.0\ConversorUnidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttc2478\source\repos\ConversorUnidades\ConversorUnidades\obj\Debug\net6.0\ConversorUnidades.AssemblyInfoInputs.cache
+C:\Users\ttc2478\source\repos\ConversorUnidades\ConversorUnidades\obj\Debug\net6.0\ConversorUnidades.AssemblyInfo.cs
+C:\Users\ttc2478\source\repos\ConversorUnidades\ConversorUnidades\obj\Debug\net6.0\ConversorUnidades.csproj.CoreCompileInputs.cache
+C:\Users\ttc2478\source\repos\ConversorUnidades\ConversorUnidades\bin\Debug\net6.0\ConversorUnidades.exe
+C:\Users\ttc2478\source\repos\ConversorUnidades\ConversorUnidades\bin\Debug\net6.0\ConversorUnidades.deps.json
+C:\Users\ttc2478\source\repos\ConversorUnidades\ConversorUnidades\bin\Debug\net6.0\ConversorUnidades.runtimeconfig.json
+C:\Users\ttc2478\source\repos\ConversorUnidades\ConversorUnidades\bin\Debug\net6.0\ConversorUnidades.dll
+C:\Users\ttc2478\source\repos\ConversorUnidades\ConversorUnidades\bin\Debug\net6.0\ConversorUnidades.pdb
+C:\Users\ttc2478\source\repos\ConversorUnidades\ConversorUnidades\obj\Debug\net6.0\ConversorUnidades.dll
+C:\Users\ttc2478\source\repos\ConversorUnidades\ConversorUnidades\obj\Debug\net6.0\refint\ConversorUnidades.dll
+C:\Users\ttc2478\source\repos\ConversorUnidades\ConversorUnidades\obj\Debug\net6.0\ConversorUnidades.pdb
+C:\Users\ttc2478\source\repos\ConversorUnidades\ConversorUnidades\obj\Debug\net6.0\ConversorUnidades.genruntimeconfig.cache
+C:\Users\ttc2478\source\repos\ConversorUnidades\ConversorUnidades\obj\Debug\net6.0\ref\ConversorUnidades.dll
